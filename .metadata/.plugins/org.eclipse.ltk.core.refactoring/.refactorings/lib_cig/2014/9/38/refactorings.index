@@ -1,0 +1,15 @@
+1411059032525	Delete element
+1411059068314	Delete element
+1411211669714	Rename type 'Gmodel'
+1411215244424	Rename resource 'Cube.dae'
+1411215687497	Rename resource 'Cube.xml'
+1411221268351	Delete element
+1411222303984	Rename method 'loadGeomtry'
+1411222385381	Rename local variable 'lstGeometries'
+1411222393892	Rename local variable 'lstMeshes'
+1411241332238	Rename type 'GShade'
+1411241344968	Rename type 'ShaderProgram'
+1411243037707	Rename field 'model'
+1411244022710	Rename field '_positionBuffer'
+1411244027398	Rename field '_normalBuffer'
+1411244031341	Rename field '_indexBuffer'
